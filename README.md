@@ -39,3 +39,7 @@
 •	The system should be secure and protect user data with password protection and access control.
 
 •	The system should be fast and respond within a few seconds when used.
+
+• The system should work well and be available most of the time (at least 99% uptime).
+
+• The system should be easy to use, with a simple and clear design that works on both computers and tablets.
