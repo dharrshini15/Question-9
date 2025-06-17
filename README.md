@@ -24,6 +24,7 @@
 • The system should keep track of medicine stock and show how much is available.
 
 • The system should give alerts when a medicine is about to expire.
+
 •	The system should let users record sales, including what was sold, how much, and the price.
 
 •	The system should be able to create reports for stock, expired medicines, and sales..
@@ -33,3 +34,8 @@
 •	The system should help users make and manage purchase orders when stock is low.
 
 ---
+### Non-Functional Requirements
+
+•	The system should be secure and protect user data with password protection and access control.
+
+•	The system should be fast and respond within a few seconds when used.
