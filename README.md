@@ -18,3 +18,9 @@
 • The system should allow users to add new medicine details like name, type, amount, supplier, and expiry date.
 
 • The system should allow users to edit or delete medicine information if needed.
+
+• The system should have a search feature to help users find medicines by name, type, or expiry date.
+
+• The system should keep track of medicine stock and show how much is available.
+
+• The system should give alerts when a medicine is about to expire.
