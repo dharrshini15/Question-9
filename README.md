@@ -24,3 +24,12 @@
 • The system should keep track of medicine stock and show how much is available.
 
 • The system should give alerts when a medicine is about to expire.
+•	The system should let users record sales, including what was sold, how much, and the price.
+
+•	The system should be able to create reports for stock, expired medicines, and sales..
+
+•	The system should allow users to save and manage supplier details like name and contact number.
+
+•	The system should help users make and manage purchase orders when stock is low.
+
+---
